@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is David and I'm a software developer. Thanks for checking out my page!
+
+Visit my full portfolio at https://davidherszenhaut.github.io/.
+
+<a href="mailto:david.herszenhaut@gmail.com"><img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&labelColor=white"></a> <a href="https://www.linkedin.com/in/davidherszenhaut/"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&labelColor=gray"></a>
+
 <!--
 **davidherszenhaut/davidherszenhaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
