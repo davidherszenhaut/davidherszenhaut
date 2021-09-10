@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is David and I'm a software developer. Thanks for checking out my page!
+My name is David and I'm a software engineer. Thanks for checking out my page!
 
 Visit my full portfolio at https://davidherszenhaut.github.io/.
 
